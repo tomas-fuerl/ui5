@@ -14,4 +14,8 @@ sap.ui.define([
 		href: "https://www.google.de"
 	}).placeAt("content");
 
+	new Text({
+		text: "Hello World"
+	}).placeAt("content");
+
 });
