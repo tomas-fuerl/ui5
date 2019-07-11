@@ -5,6 +5,7 @@
     <VBox>
         <Text text="Hello World"/>
         <Text text="Hello World"/>
+        <Text text=" "/>
         <Text text="Hello World"/>
         <Text text="Hello World"/>
         <Text text="Hello World"/>
