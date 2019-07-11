@@ -1,6 +1,7 @@
 <mvc:View
    xmlns="sap.m"
-   xmlns:mvc="sap.ui.core.mvc">
+   xmlns:mvc="sap.ui.core.mvc" 
+   xmlns:core="sap.ui.core">
    <Text text="Hello World\n"/>
-   <HTML content="Phillip kann nix"/>
+   <core:HTML text="Phillip kann nix"/>
 </mvc:View>
